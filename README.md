@@ -1,7 +1,7 @@
  Hi there 👋
  我是長榮航管系的學生
  興趣是聽音樂
-曾經就讀中正預校、國防大學政治作戰學院
+
 <!--
 **f131878329-dotcom/f131878329-dotcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
